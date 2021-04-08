@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I am a | Student | Bloger |Competitive Programmer |
 
 <!--
 **Amisha328/Amisha328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
