@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### | B.Tech CSE Student | Techie Blogger |Competitive Programmer |
+#### | MLSA - Alpha | Coding Enthusiast | Grand-Finalist at COVID-19 VEPC |  Techie Blogger | B.Tech CSE Student |
 
 <!--
 **Amisha328/Amisha328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
