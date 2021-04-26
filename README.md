@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amisha Sahu</h1>
-<h4 align="center">A passionate Android Developer and Coding Enthusiast from India</h4>
 
 
 - 🎓 I’m currently pursuing **Bachelor's in Computer Science & Engineering**
