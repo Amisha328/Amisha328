@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amisha Sahu</h1>
 
-[![Twitter Badge](https://img.shields.io/badge/-@AbhishekSaxena-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amisha_sahu328) 
-[![Linkedin Badge](https://img.shields.io/badge/-AbhishekSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-sahu/](https://www.linkedin.com/in/abhisheksaxena7/)
-
+[![Twitter Badge](https://img.shields.io/badge/-@amisha_sahu328-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amisha_sahu328)](https://twitter.com/amisha_sahu328)
+[![Linkedin Badge](https://img.shields.io/badge/-amisha-sahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-sahu/](https://www.linkedin.com/in/amisha-sahu/)
+amisha_sahu328
 - 🎓 I’m currently pursuing **Bachelor's in Computer Science & Engineering**
 
 - 🏆 I am a **Microsoft Learn Student Ambassador - Alpha | Google's Women Techmakers Member | Grand-Finalist at COVID-19 VEPC**
