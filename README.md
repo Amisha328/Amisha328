@@ -21,6 +21,13 @@
 
 <h3 align="left">Contact me at 👇</h3>
 
+<p align="left">
+<a href="https://twitter.com/amisha_sahu328" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/amisha-sahu/" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/baljinder_hira_/" target="_blank"><img src="https://img.icons8.com/clouds/50/000000/instagram.png"/></a>
+<br />
+</p>
+
 [![Twitter Badge](https://img.shields.io/badge/-@amisha_sahu328-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amisha_sahu328)](https://twitter.com/amisha_sahu328)
 [![Linkedin Badge](https://img.shields.io/badge/-AmishaSahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-sahu/)](https://www.linkedin.com/in/amisha-sahu/)
 <br/>
