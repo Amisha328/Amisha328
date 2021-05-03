@@ -21,10 +21,10 @@
 
 <h3 align="left">Contact me at 👇</h3>
 
-<p align="left">
+
 [![Twitter Badge](https://img.shields.io/badge/-@amisha_sahu328-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amisha_sahu328)](https://twitter.com/amisha_sahu328)
 [![Linkedin Badge](https://img.shields.io/badge/-AmishaSahu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-sahu/)](https://www.linkedin.com/in/amisha-sahu/)
 <br />
-</p>
+
 
 
