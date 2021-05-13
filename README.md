@@ -7,6 +7,14 @@
 
 - 🏆 I am a **Microsoft Learn Student Ambassador - Alpha | Google's Women Techmakers Member | Grand-Finalist at COVID-19 VEPC**
 
+- 👩‍💻 I am currently working on **Android Application Development**.
+
+- 🤖 I am curious about **Artificial Intelligence and Machine Learning**.
+
+- 📝 I write **technical blogs on WordPress**.
+
+- 🤠 I enjoy learning new technologies.
+
 
 <br/>
 
