@@ -9,7 +9,7 @@
 
 - 👩‍💻 I am currently working on **Android Application Development**.
 
-- 🤖 I am curious about **Artificial Intelligence and Machine Learning**.
+- 🤖 I am currently learning **Artificial Intelligence and Machine Learning**.
 
 - 📝 I write **technical blogs on WordPress**.
 
