@@ -13,7 +13,7 @@
 
 - 📝 I write **technical blogs on WordPress**.
 
-- 🤠 I enjoy learning new technologies.
+- 🤠 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. 
 
 
 <br/>
