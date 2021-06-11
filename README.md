@@ -5,11 +5,11 @@
 
 - 🎓 I’m currently pursuing **Bachelor's in Computer Science & Engineering**
 
-- 🏆 I am a **Microsoft Learn Student Ambassador - Alpha | Google's Women Techmakers Member | Grand-Finalist at COVID-19 VEPC**
+- 🏆 I am a **Microsoft Learn Student Ambassador - Alpha | Google's Women Techmakers Member | Grand-Finalist at COVID-19 VEPC | Google Solution Challenge 2021 Participant**
 
-- 👩‍💻 I am currently working on **Android Application Development**.
+- 👩‍💻 I have worked on **Android Application Development**.
 
-- 🤖 I am currently learning **Artificial Intelligence and Machine Learning**.
+- 🤖 I am currently learning **Machine Learning**.
 
 - 📝 I write **technical blogs on WordPress**.
 
