@@ -1,7 +1,7 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amisha Sahu</h1>
 
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 - 🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
@@ -97,5 +97,8 @@
 
 <br />
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amisha328}/count.svg" /></p> 
+<br></div>
 
