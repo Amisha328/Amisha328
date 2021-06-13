@@ -77,7 +77,7 @@
 ## 📈 Stats
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Amisha328&theme=algolia" alt="Activity Graph">
+![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&theme=algolia&hide_border=true&area=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
