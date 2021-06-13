@@ -11,7 +11,7 @@
 
 - 📝 I write **technical blogs on** [**WordPress**](https://wordpress.com/view/betterlifevisual.wordpress.com).
 
-- 🤠 I'm enthusiastic about learning new technology. 
+- 🤠 I'm enthusiastic about learning new skills and technology. 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects**.
 
@@ -26,6 +26,18 @@
 -✨ I'm a [**WomenTech Network Ambassador**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
 
 -✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
+
+
+##🏆 Achievements
+
+-🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021**](https://www.hackerrank.com/amishasahu328)
+
+-💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing).
+
+-🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology**](https://www.iipt.in/)
+
+-⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
