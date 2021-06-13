@@ -77,6 +77,8 @@
 ## 📈 Stats
 
 
+[![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&count_private=true&layout=compact&hide=html&theme=algolia&show_icons=true)](https://github.com/sathya050801/github-readme-stats) &nbsp;
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
 
 
@@ -85,7 +87,8 @@
 
 <br/>
 
-<h3 align="left">📬 Contact me at 👇</h3>
+### 📬 Contact me at 👇
+
 
 <a href="https://www.linkedin.com/in/amisha-sahu/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="amishasahu328@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
