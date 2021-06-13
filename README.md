@@ -3,27 +3,27 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering**
+- 🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
-- 👩‍💻 I have worked on **Android Application Development**.
+- 👩‍💻 I have worked on **Android Application Development.**
 
-- 🤖 I am currently learning **Machine Learning**.
+- 🤖 I am currently learning **Machine Learning.**
 
-- 📝 I write **technical blogs on** [**WordPress**](https://wordpress.com/view/betterlifevisual.wordpress.com).
+- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
 - 🤠 I'm enthusiastic about learning new skills and technology. 
 
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects**.
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
 
 <br/>
 
 ## ⛵ Position of Responsibility
 
--✨ I'm a [**Alpha Microsoft Learn Student Ambassador**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
+-✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
 
 -✨ I'm a **Google's Women Techmakers Member.** 
 
--✨ I'm a [**WomenTech Network Ambassador**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
+-✨ I'm a [**WomenTech Network Ambassador.**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
 
 -✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
 
@@ -31,13 +31,44 @@
 
 ## 🏆 Achievements
 
--🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021**](https://www.hackerrank.com/amishasahu328)
+-🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
 
--💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing).
+-💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing).
 
--🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology**](https://www.iipt.in/)
+-🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
 
 -⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
+
+
+<br/>
+
+## 🛠️ Skills
+
+### Languages
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Java](https://img.shields.io/badge/java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
+
+
+### Technology
+
+![Android](https://img.shields.io/badge/android-%0769AD.svg?style=flat&logo=android&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### Database
+
+![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+
+
+
+
+
+
 
 
 
