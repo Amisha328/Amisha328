@@ -19,7 +19,7 @@
 
 ## ⛵ Position of Responsibility
 
--✨ I'm a [**Microsoft Learn Student Ambassador - Alpha**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
+-✨ I'm a [**Alpha Microsoft Learn Student Ambassador**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
 
 -✨ I'm a **Google's Women Techmakers Member.** 
 
