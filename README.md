@@ -1,22 +1,29 @@
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Amisha Sahu</h1>
 
 
+## 🙋‍♂️ About Me
 
-
-- 🎓 I’m currently pursuing **Bachelor's in Computer Science & Engineering**
-
-- 🏆 I am a **Microsoft Learn Student Ambassador - Alpha | Google's Women Techmakers Member | Grand-Finalist at COVID-19 VEPC **
+- 🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering**
 
 - 👩‍💻 I have worked on **Android Application Development**.
 
 - 🤖 I am currently learning **Machine Learning**.
 
-- 📝 I write **technical blogs on WordPress**.
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects** and looking to collaborate on more **Open-Source Projects**
 
-- 🤠 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology. 
+- 📝 I write **technical blogs on** [**WordPress**](https://wordpress.com/view/betterlifevisual.wordpress.com).
 
+- 🤠 I'm enthusiastic about learning new technology. 
 
 <br/>
+
+## ⛵ Position of Responsibility
+
+-✨ I'm a [**Microsoft Learn Student Ambassador - Alpha**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
+-✨ I'm a **Google's Women Techmakers Member.** 
+-✨ I'm a [**WomenTech Network Ambassador**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
+-✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
 
