@@ -77,7 +77,7 @@
 ## 📈 Stats
 
 
-![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&theme=react-dark&hide_border=true&area=true)
+![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&theme=rogue&hide_border=true&area=true)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
