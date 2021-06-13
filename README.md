@@ -77,7 +77,8 @@
 ## 📈 Stats
 
 
-[![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&count_private=true&layout=compact&hide=html&theme=algolia&show_icons=true)](https://github.com/sathya050801/github-readme-stats) &nbsp;
+<img src="https://activity-graph.herokuapp.com/graph?username=Amisha328&theme=algolia" alt="Activity Graph">
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
 
