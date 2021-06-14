@@ -7,7 +7,7 @@
 
 - 👩‍💻 I have worked on **Android Application Development.**
 
-- 🤖 I am curious about **Machine Learning and Artificial Intelligence**
+- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
 
 - 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
@@ -100,5 +100,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amisha328}/count.svg" /></p> 
-<br></div>
+<br>
+</div>
 
