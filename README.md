@@ -7,7 +7,7 @@
 
 - 👩‍💻 I have worked on **Android Application Development.**
 
-- 🤖 I am currently learning **Machine Learning.**
+- 🤖 I am curious about **Machine Learning and Artificial Intelligence**
 
 - 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
