@@ -3,7 +3,7 @@
 
 ## 🙋 About Me
 
-- 🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
+- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
 - 👩‍💻 I have worked on **Android Application Development.**
 
