@@ -4,55 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🙏;;Nice+To+Meet+You+🤝&center=true"></a>
 </p>  
 
-<details>
-  <summary>:zap: 🙋 About Me</summary>
+## 📈 Stats
 
-- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
-- 👩‍💻 I have worked on **Android Application Development.**
-
-- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
-
-- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
-
-- 🤠 I'm enthusiastic about learning new skills and technology. 
-
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
-  
- </details>
+![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
+<p align="center">
+  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha328&layout=compact&theme=algolia" />
+</p>
 
 <br/>
 
-<details>
-  <summary>:zap: ⛵ Position of Responsibility</summary>
-  
--✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
-
--✨ I'm a **Google's Women Techmakers Member.** 
-
--✨ I'm a [**WomenTech Network Ambassador.**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
-
--✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
-
-  </summary>
-  
-<br/>
-
-
-<details>
-  <summary>:zap: 🏆 Achievements</summary>
-
--🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
-
--💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
-
--🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
-
--⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
-
-</summary>
-
-<br/>
 
 ## 🛠️ Skills
 
@@ -84,15 +46,53 @@
 
 <br/>
 
-## 📈 Stats
+<details>
+  <summary>:zap: 🙋 About Me</summary>
 
+- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
-![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
-<p align="center">
-  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha328&layout=compact&theme=algolia" />
-</p>
+- 👩‍💻 I have worked on **Android Application Development.**
 
+- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
+
+- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
+
+- 🤠 I'm enthusiastic about learning new skills and technology. 
+
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
+  
+ </details>
+
+<br/>
+
+<details>
+  <summary>:zap: 🏆 Achievements</summary>
+
+-🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
+
+-💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
+
+-🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
+
+-⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
+
+</details>
+
+<br/>
+
+<details>
+  <summary>:zap: ⛵ Position of Responsibility</summary>
+  
+-✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
+
+-✨ I'm a **Google's Women Techmakers Member.** 
+
+-✨ I'm a [**WomenTech Network Ambassador.**](https://drive.google.com/file/d/1Hw_punBuXpT4Orbq5MCNwm_9Idgfg2PL/view?usp=sharing)
+
+-✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
+
+  </details>
+  
 <br/>
 
 ### 📬 Contact me at 👇
