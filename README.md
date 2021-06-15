@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🙏;;Nice+To+Meet+You+🤝&center=true"></a>
 </p>  
 
-## 🙋 About Me
+<details>
+  <summary>:zap: 🙋 About Me</summary>
 
 - 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
@@ -17,11 +18,14 @@
 - 🤠 I'm enthusiastic about learning new skills and technology. 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
+  
+ </details>
 
 <br/>
 
-## ⛵ Position of Responsibility
-
+<details>
+  <summary>:zap: ⛵ Position of Responsibility</summary>
+  
 -✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
 
 -✨ I'm a **Google's Women Techmakers Member.** 
@@ -30,9 +34,13 @@
 
 -✨ I have been [**Campus Ambassador**](https://drive.google.com/file/d/1GTtjAy5_mZn1TJ8lai4HQx6yZKQKIR47/view?usp=sharing) at Unmaad IIM, Bangalore.
 
+  </summary>
+  
 <br/>
 
-## 🏆 Achievements
+
+<details>
+  <summary>:zap: 🏆 Achievements</summary>
 
 -🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
 
@@ -42,6 +50,7 @@
 
 -⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
 
+</summary>
 
 <br/>
 
