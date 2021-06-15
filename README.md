@@ -33,7 +33,7 @@
 
 -🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
 
--💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing).
+-💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
 
 -🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
 
