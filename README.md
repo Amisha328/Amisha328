@@ -4,6 +4,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🙏;;Nice+To+Meet+You+🤝&center=true"></a>
 </p>  
 
+
+<details>
+  <summary>:zap: 🙋 About Me</summary>
+
+- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
+
+- 👩‍💻 I have worked on **Android Application Development.**
+
+- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
+
+- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
+
+- 🤠 I'm enthusiastic about learning new skills and technology. 
+
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
+  
+ </details>
+
+<br/>
+
+
 ## 📈 Stats
 
 
@@ -47,24 +68,7 @@
 
 <br/>
 
-<details>
-  <summary>:zap: 🙋 About Me</summary>
 
-- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
-
-- 👩‍💻 I have worked on **Android Application Development.**
-
-- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
-
-- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
-
-- 🤠 I'm enthusiastic about learning new skills and technology. 
-
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
-  
- </details>
-
-<br/>
 
 <details>
   <summary>:zap: 🏆 Achievements</summary>
