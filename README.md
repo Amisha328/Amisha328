@@ -72,8 +72,9 @@
 
 <details>
   <summary>:zap: 🏆 Achievements</summary>
-
   
+</br>
+
 -🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
 
 -💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
@@ -87,9 +88,11 @@
 <br/>
 
 <details>
+  
   <summary>:zap: ⛵ Position of Responsibility</summary>
   
-  
+   </br>
+   
 -✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
 
 -✨ I'm a **Google's Women Techmakers Member.** 
