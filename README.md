@@ -7,11 +7,12 @@
 ## 📈 Stats
 
 
-![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha328&layout=compact&theme=algolia" />
 </p>
+
+![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
 
 <br/>
 
@@ -68,6 +69,7 @@
 <details>
   <summary>:zap: 🏆 Achievements</summary>
 
+  
 -🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
 
 -💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
@@ -82,6 +84,7 @@
 
 <details>
   <summary>:zap: ⛵ Position of Responsibility</summary>
+  
   
 -✨ I'm a [**Alpha Microsoft Learn Student Ambassador.**](https://drive.google.com/file/d/1v0xo_woekxSCl-wXDpf5U-r0KKijjSYa/view?usp=sharing) 
 
