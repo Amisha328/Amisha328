@@ -72,8 +72,6 @@
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23013243.svg?style=flat&logo=AndroidStudio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
-
 
 <br/>
 
