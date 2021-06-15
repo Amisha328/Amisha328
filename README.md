@@ -81,13 +81,10 @@
 
 
 ![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amisha328&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha328&layout=compact&theme=algolia)](https://github.com/Amisha328/github-readme-stats)
-
+<p align="center">
+  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Amisha328&theme=algolia&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amisha328&layout=compact&theme=algolia" />
+</p>
 
 <br/>
 
