@@ -75,7 +75,7 @@
   
 </br>
 
--🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://www.hackerrank.com/amishasahu328)
+-🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://drive.google.com/file/d/1FafF_JEUY1IMVgIgcPQDrUUgvQIuE4Xk/view?usp=sharing)
 
 -💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
 
