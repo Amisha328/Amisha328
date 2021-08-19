@@ -69,7 +69,6 @@
 <br/>
 
 
-
 <details>
   <summary>:zap: 🏆 Achievements</summary>
   
@@ -86,6 +85,15 @@
 </details>
 
 <br/>
+
+## ⛵ My Motivation
+
+```javascript
+while (!success) {
+  return "Keep trying";
+}
+```
+
 
 ### 📬 Contact me at 👇
 
