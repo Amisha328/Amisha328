@@ -20,10 +20,11 @@
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
   
+- 📄 Curriculum Vitae - [**CV**](https://drive.google.com/file/d/1c1GjpzVJ8HaeIM8eGoYKjjS1ASW-p78Y/view?usp=sharing) 
+  
  </details>
 
 <br/>
-
 
 ## 📈 Stats
 
