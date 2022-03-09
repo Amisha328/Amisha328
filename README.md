@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary>:zap: 🙋 About Me</summary>
+  <summary>:zap: 👩🏼‍🦰 About Me</summary>
 
 - 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
 
@@ -20,7 +20,7 @@
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
   
-- 📄 Curriculum Vitae - [**CV**](https://drive.google.com/file/d/1wNi5WVJ20-yCrajp3TPLZ3J96e0uCBUI/view?usp=sharing) 
+- 📄 Curriculum Vitae - [**CV**](https://drive.google.com/file/d/1IEvquPmIVGcJ6f1JxFzVRXZheLKRm4IE/view?usp=sharing) 
   
  </details>
 
