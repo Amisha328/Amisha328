@@ -8,7 +8,7 @@
 <details>
   <summary>:zap: 👩🏼‍🦰 About Me</summary>
 
-- 👩‍🎓 I’m currently pursuing my **bachelor's in Computer Science & Engineering.**
+- 📝 I’m currently working as **Digital Specialist Engineer @ Infosys**.
 
 - 👩‍💻 I have worked on **Android Application Development.**
 
