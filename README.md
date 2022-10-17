@@ -7,12 +7,16 @@
 
 <details>
   <summary>:zap: 👩🏼‍🦰 About Me</summary>
+ 
+- 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
 
-- 📝 I’m currently working as **Digital Specialist Engineer @ Infosys**.
+- 📝 Currently working as **Digital Specialist Engineer @ Infosys**.
 
-- 👩‍💻 I have worked on **Android Application Development.**
+- 👩‍💻 Internship experience close to 1 year in creating **Android Applications** and about 4 months in **Full Stack Web Development**.
 
 - 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
+
+- 🌿 Knowledge about Software Development Life Cycle and various methodologies followed in the industry.
 
 - 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
@@ -44,8 +48,10 @@
 #### Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-%23150458.svg?style=flat&logo=java)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 
@@ -58,9 +64,10 @@
 
 #### Database
 
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%23150458.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-%0769AD.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=flat&logo=sqlite&logoColor=A8B9CC)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
 
 #### Tools
 
@@ -81,7 +88,7 @@
 
 -🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
 
--⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_.
+-⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_ and [**3 star at CodeChef**](https://www.codechef.com/users/amisha328).
 
 </details>
 
