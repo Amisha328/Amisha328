@@ -76,6 +76,10 @@
 
 <br/>
 
+##  🏷️ Badges
+
+[![@amisha328's Holopin board](https://holopin.me/amisha328)](https://holopin.io/@amisha328)
+
 
 <details>
   <summary>:zap: 🏆 Achievements</summary>
