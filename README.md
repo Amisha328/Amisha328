@@ -8,15 +8,16 @@
 <details>
   <summary>:zap: 👩🏼‍🦰 About Me</summary>
  
-- 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
 
 - 📝 Currently working as **Digital Specialist Engineer @ Infosys**.
 
-- 👩‍💻 Internship experience close to 1 year in creating **Android Applications** and about 4 months in **Full Stack Web Development**.
+- 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
+
+- 👩‍💻 Experienced in building **Android Applications** and **Full Stack Web Development**.
 
 - 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
 
-- 🌿 Knowledge about Software Development Life Cycle and various methodologies followed in the industry.
+- 🌿 Knowledge about the Software Development Life Cycle and various methodologies followed in the industry.
 
 - 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
