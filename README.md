@@ -49,9 +49,7 @@
 #### Languages
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-%23150458.svg?style=flat&logo=java)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-%23150458.svg?style=flat&logo=java&logoColor=red)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -59,6 +57,8 @@
 
 #### Technology
 
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
 ![Android](https://img.shields.io/badge/android-%0769AD.svg?style=flat&logo=android&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -72,6 +72,7 @@
 
 #### Tools
 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23013243.svg?style=flat&logo=AndroidStudio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
