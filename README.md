@@ -15,8 +15,6 @@
 
 - 👩‍💻 Experienced in building **Android Applications** and **Full Stack Web Development**.
 
-- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
-
 - 🌿 Knowledge about the Software Development Life Cycle and various methodologies followed in the industry.
 
 - 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
@@ -24,6 +22,8 @@
 - 🤠 I'm enthusiastic about learning new skills and technology. 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
+
+- 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
   
   
  </details>
@@ -59,6 +59,7 @@
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-05122A?style=flat&logo=express)&nbsp;
 ![Android](https://img.shields.io/badge/android-%0769AD.svg?style=flat&logo=android&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -74,6 +75,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23013243.svg?style=flat&logo=AndroidStudio&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=ffA500)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br/>
@@ -90,13 +92,17 @@
   
 </br>
 
--🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://drive.google.com/file/d/1FafF_JEUY1IMVgIgcPQDrUUgvQIuE4Xk/view?usp=sharing)
+- 🏆 Achieved recognition as a _**winner**_ of _**Hacktoberfest 2023, an open-source contribution event**_ at _**Infosys**_. 
 
--💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
+- 🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://drive.google.com/file/d/1FafF_JEUY1IMVgIgcPQDrUUgvQIuE4Xk/view?usp=sharing)
 
--🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
+- 💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
 
--⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_ and [**3 star at CodeChef**](https://www.codechef.com/users/amisha328).
+- 🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
+
+ - 👏🏼 Ranked in the _**top 0.09%**_ in _**November Lunchtime 2020 Coding Challenge**_ organized by [_**CodeChef (Coding Platform)**_](https://www.codechef.com/rankings/LTIME90B?itemsPerPage=100&order=asc&page=19&search=amisha328&sortBy=rank)
+
+- ⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_ and [**3 star at CodeChef**](https://www.codechef.com/users/amisha328).
 
 </details>
 
@@ -117,7 +123,7 @@ while (!success) {
 
 <a href="https://www.linkedin.com/in/amisha-sahu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:amishasahu328@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://twitter.com/amisha_sahu328"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white" /></a> &nbsp;
+<a href="https://twitter.com/amisha_sahu328"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=x&logoColor=white" /></a> &nbsp;
 
 <br />
 
