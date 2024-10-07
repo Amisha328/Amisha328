@@ -9,11 +9,11 @@
   <summary>:zap: 👩🏼‍🦰 About Me</summary>
  
 
-- 📝 Currently working as **Digital Specialist Engineer @ Infosys**.
+- 📝 Currently working as **Software Developer @ Infosys**.
 
 - 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
 
-- 👩‍💻 Experienced in building **Android Applications** and **Full Stack Web Development**.
+- 👩‍💻 Experienced in building **Full Stack Web Development** and **Android Applications**.
 
 - 🌿 Knowledge about the Software Development Life Cycle and various methodologies followed in the industry.
 
