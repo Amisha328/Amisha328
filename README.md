@@ -82,9 +82,19 @@
 
 ##  🏷️ Badges
 
-![image](https://github.com/Amisha328/Amisha328/assets/58816552/0cce50f9-22ca-48b3-bae3-cfd822ac973c)
+**Hacktoberfest 2024**
 
 [![@amisha328's Holopin board](https://holopin.me/amisha328)](https://holopin.io/@amisha328)
+
+**Hacktoberfest 2023**
+
+![image](https://github.com/Amisha328/Amisha328/assets/58816552/0cce50f9-22ca-48b3-bae3-cfd822ac973c)
+
+**Hacktoberfest 2022**
+
+![image](https://github.com/user-attachments/assets/9a08b85a-69a5-464b-8007-238bd154e3c6)
+
+
 
 
 <details>
