@@ -13,7 +13,7 @@
 
 - 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
 
-- 👩‍💻 Experienced in building **Full Stack Web Development** and **Android Applications**.
+- 👩‍💻 Experienced in building **Full Stack Web Applications** and **Android Applications**.
 
 - 🌿 Knowledge about the Software Development Life Cycle and various methodologies followed in the industry.
 
@@ -102,15 +102,15 @@
   
 </br>
 
-- 🏆 Achieved recognition as a _**winner**_ of _**Hacktoberfest 2023, an open-source contribution event**_ at _**Infosys**_. 
+- 🏆 Achieved recognition as a _**winner**_ of _**Hacktoberfest 2023 and 2024, an open-source contribution event**_ within _**Infosys**_.
+
+- 👏🏼 Successfully participated in the [**Google Kick Start  Coding Contest**](https://drive.google.com/file/d/1iXvmR_odx7gxtovjUYj9LBdyNFrNahIy/view?usp=sharing), and [**Google’s Code Jam to  I/O for Women 2022**](https://drive.google.com/file/d/13QswLD7TIO-uMUDogu6qvFspxJEnliOA/view?usp=sharing) , demonstrating strong  problem-solving skills and algorithmic expertise. 
 
 - 🥇 Secured _India rank #615 and College rank #1_ in [**Newton's coding challenge May 2021.**](https://drive.google.com/file/d/1FafF_JEUY1IMVgIgcPQDrUUgvQIuE4Xk/view?usp=sharing)
 
 - 💡 Participated in _Google Developer Student Clubs_ [**Solution Challenge 2021.**](https://drive.google.com/file/d/1zo03mm4RbMPTgHeU3iwv6Qzurhh9ronN/view?usp=sharing)
 
 - 🥈 [**Grand Finale**](https://drive.google.com/file/d/1DDItewAIEfvGw6xhn3I6Ff-OtBKGHL0W/view?usp=sharing) in COVID-19 Virtual Engineering Projects Contest (VEPC) 2020 organised  by [**Indian Institute of Project Technology.**](https://www.iipt.in/)
-
- - 👏🏼 Ranked in the _**top 0.09%**_ in _**November Lunchtime 2020 Coding Challenge**_ organized by [_**CodeChef (Coding Platform)**_](https://www.codechef.com/rankings/LTIME90B?itemsPerPage=100&order=asc&page=19&search=amisha328&sortBy=rank)
 
 - ⭐ [**5 star at HackerRank**](https://www.hackerrank.com/amishasahu328) in _C++ and Java Skills_ and [**3 star at CodeChef**](https://www.codechef.com/users/amisha328).
 
