@@ -13,17 +13,17 @@
 
 - 🎓 A 2022 B. Tech Computer Science and Engineering graduate from I.K Gujral Punjab Technical University.
 
-- 👩‍💻 Experienced in building **Full Stack Web Applications** and **Android Applications**.
+- 👩‍💻 Experienced in building **Full Stack Web Applications (MERN)** and **Android Applications (Java)**.
 
 - 🌿 Knowledge about the Software Development Life Cycle and various methodologies followed in the industry.
-
-- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
 
 - 🤠 I'm enthusiastic about learning new skills and technology. 
 
 - <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"> I enjoy contributing to **Open Source Projects.**
 
 - 🤖 I am curious about **Machine Learning and Artificial Intelligence.**
+
+- 📝 I write **technical blogs on** [**WordPress.**](https://wordpress.com/view/betterlifevisual.wordpress.com)
   
   
  </details>
